@@ -1,0 +1,28 @@
+# Large forensics files
+*.raw
+*.mem
+*.vmem
+*.E01
+*.dd
+*.vmdk
+*.img
+
+# Malware samples
+*.exe
+*.dll
+*.bin
+data/samples/
+
+# Autopsy databases
+*.db
+*.db-wal
+*.db-shm
+
+# Temporary analysis
+*.tmp
+*.log
+~*
+
+# OS files
+.DS_Store
+Thumbs.db

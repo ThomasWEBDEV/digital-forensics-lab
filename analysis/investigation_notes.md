@@ -1,24 +1,34 @@
-# Investigation Notes
+# Notes d'investigation
 
-**Case ID**: DFIR-2026-001
-**Investigator**: Thomas FERET
-**Date**: 2026-02-12
-**Classification**: Internal
+**Identifiant du cas**: DFIR-2026-001
+**Investigateur**: Thomas FERET
+**Date**: 2026-02-13
+**Classification**: Interne
 
-## Objective
+## Challenge
 
-Post-mortem analysis of a ransomware compromise using CyberDefenders challenge dataset.
+**Source**: CyberDefenders - BlackEnergy
+**Categorie**: Endpoint Forensics / Analyse memoire
+**Difficulte**: Moyen
+**Duree estimee**: 1h
 
-## Status
+## Scenario
 
-- [ ] Challenge selected on CyberDefenders
-- [ ] Files downloaded
-- [ ] Memory analysis (Volatility 3)
-- [ ] Disk analysis (Autopsy)
-- [ ] Timeline reconstruction
-- [ ] IOCs extracted
-- [ ] MITRE ATT&CK mapped
-- [ ] Reports written
+Une multinationale a subi une cyberattaque resultant en un vol de donnees sensibles.
+L'attaque a utilise une variante inedite du malware BlackEnergy v2.
+Un dump memoire a ete obtenu depuis la machine infectee pour analyse.
 
-## Notes
+## Preuves
 
+| Fichier | Taille | Hash | Type |
+|---------|--------|------|------|
+| CYBERDEF-567078-20230213-171333.raw | 2.1 Go | A calculer | Dump memoire |
+
+## Statut
+
+- [x] Challenge selectionne sur CyberDefenders
+- [x] Fichiers telecharges
+- [ ] Analyse memoire (Volatility 3)
+- [ ] Extraction des IOCs
+- [ ] Mapping MITRE ATT&CK
+- [ ] Rapports rediges

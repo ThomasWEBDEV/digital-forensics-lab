@@ -27,3 +27,4 @@ data/samples/
 .DS_Store
 Thumbs.db
 venv/
+*.zip

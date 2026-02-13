@@ -1,0 +1,3 @@
+Volatility 3 Framework 2.27.0
+
+Offset	Proto	LocalAddr	LocalPort	ForeignAddr	ForeignPort	State	PID	Owner	Created

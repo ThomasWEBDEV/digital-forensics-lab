@@ -1,0 +1,17 @@
+Volatility 3 Framework 2.27.0
+
+Last Write Time	Hive Offset	Type	Key	Name	Data	Volatile
+
+-	0xe19839e8	Key	\Device\HarddiskVolume1\Documents and Settings\CyberDefenders\Local Settings\Application Data\Microsoft\Windows\UsrClass.dat\SYSTEM\CurrentControlSet\Services\hvklkzdz	-	-	-
+-	0xe1982970	Key	\Device\HarddiskVolume1\Documents and Settings\CyberDefenders\NTUSER.DAT\SYSTEM\CurrentControlSet\Services\hvklkzdz	-	-	-
+-	0xe174b980	Key	\Device\HarddiskVolume1\Documents and Settings\LocalService\Local Settings\Application Data\Microsoft\Windows\UsrClass.dat\SYSTEM\CurrentControlSet\Services\hvklkzdz	-	-	-
+-	0xe1879008	Key	\Device\HarddiskVolume1\Documents and Settings\LocalService\NTUSER.DAT\SYSTEM\CurrentControlSet\Services\hvklkzdz	-	-	-
+-	0xe1716008	Key	\Device\HarddiskVolume1\Documents and Settings\NetworkService\Local Settings\Application Data\Microsoft\Windows\UsrClass.dat\SYSTEM\CurrentControlSet\Services\hvklkzdz	-	-	-
+-	0xe16f5b60	Key	\Device\HarddiskVolume1\Documents and Settings\NetworkService\NTUSER.DAT\SYSTEM\CurrentControlSet\Services\hvklkzdz	-	-	-
+-	0xe14666b8	Key	\Device\HarddiskVolume1\WINDOWS\system32\config\software\SYSTEM\CurrentControlSet\Services\hvklkzdz	-	-	-
+-	0xe1447008	Key	\Device\HarddiskVolume1\WINDOWS\system32\config\default\SYSTEM\CurrentControlSet\Services\hvklkzdz	-	-	-
+-	0xe1438b60	Key	\Device\HarddiskVolume1\WINDOWS\system32\config\SAM\SYSTEM\CurrentControlSet\Services\hvklkzdz	-	-	-
+-	0xe1466b60	Key	\Device\HarddiskVolume1\WINDOWS\system32\config\SECURITY\SYSTEM\CurrentControlSet\Services\hvklkzdz	-	-	-
+-	0xe1358008	Key	[NONAME]\SYSTEM\CurrentControlSet\Services\hvklkzdz	-	-	-
+-	0xe1035b60	Key	\Device\HarddiskVolume1\WINDOWS\system32\config\system\SYSTEM\CurrentControlSet\Services\hvklkzdz	-	-	-
+-	0xe102e008	Key	[NONAME]\SYSTEM\CurrentControlSet\Services\hvklkzdz	-	-	-

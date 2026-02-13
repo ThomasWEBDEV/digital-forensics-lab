@@ -1,0 +1,40 @@
+Volatility 3 Framework 2.27.0
+
+Last Write Time	Hive Offset	Type	Key	Name	Data	Volatile
+
+2023-02-13 18:25:26.000000 UTC	0xe1035b60	Key	\Device\HarddiskVolume1\WINDOWS\system32\config\system\ControlSet001\Services\hvklkzdz	Security	N/A	False
+2023-02-13 18:25:26.000000 UTC	0xe1035b60	Key	\Device\HarddiskVolume1\WINDOWS\system32\config\system\ControlSet001\Services\hvklkzdz	Enum	N/A	True
+2023-02-13 18:25:26.000000 UTC	0xe1035b60	REG_DWORD	\Device\HarddiskVolume1\WINDOWS\system32\config\system\ControlSet001\Services\hvklkzdz	Type	1	False
+2023-02-13 18:25:26.000000 UTC	0xe1035b60	REG_DWORD	\Device\HarddiskVolume1\WINDOWS\system32\config\system\ControlSet001\Services\hvklkzdz	Start	2	False
+2023-02-13 18:25:26.000000 UTC	0xe1035b60	REG_DWORD	\Device\HarddiskVolume1\WINDOWS\system32\config\system\ControlSet001\Services\hvklkzdz	ErrorControl	0	False
+2023-02-13 18:25:26.000000 UTC	0xe1035b60	REG_EXPAND_SZ	\Device\HarddiskVolume1\WINDOWS\system32\config\system\ControlSet001\Services\hvklkzdz	ImagePath	\??\C:\WINDOWS\system32\drivers\suzmkbtuoyeki.sys	False
+2023-02-13 18:25:26.000000 UTC	0xe1035b60	REG_SZ	\Device\HarddiskVolume1\WINDOWS\system32\config\system\ControlSet001\Services\hvklkzdz	DisplayName	hvklkzdz	False
+2023-02-13 18:25:26.000000 UTC	0xe1035b60	REG_BINARY	\Device\HarddiskVolume1\WINDOWS\system32\config\system\ControlSet001\Services\hvklkzdz	RulesData	
+03 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 ................
+00 00 00 00 00 00 00 00 70 00 5c 00 52 00 45 00 ........p.\.R.E.
+47 00 49 00 53 00 54 00 52 00 59 00 5c 00 4d 00 G.I.S.T.R.Y.\.M.
+41 00 43 00 48 00 49 00 4e 00 45 00 5c 00 53 00 A.C.H.I.N.E.\.S.
+59 00 53 00 54 00 45 00 4d 00 5c 00 43 00 6f 00 Y.S.T.E.M.\.C.o.
+6e 00 74 00 72 00 6f 00 6c 00 53 00 65 00 74 00 n.t.r.o.l.S.e.t.
+30 00 30 00 31 00 5c 00 53 00 65 00 72 00 76 00 0.0.1.\.S.e.r.v.
+69 00 63 00 65 00 73 00 5c 00 68 00 76 00 6b 00 i.c.e.s.\.h.v.k.
+6c 00 6b 00 7a 00 64 00 7a 00 00 00 02 00 00 00 l.k.z.d.z.......
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 ................
+00 00 00 00 84 00 5c 00 44 00 65 00 76 00 69 00 ......\.D.e.v.i.
+63 00 65 00 5c 00 48 00 61 00 72 00 64 00 64 00 c.e.\.H.a.r.d.d.
+69 00 73 00 6b 00 56 00 6f 00 6c 00 75 00 6d 00 i.s.k.V.o.l.u.m.
+65 00 31 00 5c 00 57 00 49 00 4e 00 44 00 4f 00 e.1.\.W.I.N.D.O.
+57 00 53 00 5c 00 73 00 79 00 73 00 74 00 65 00 W.S.\.s.y.s.t.e.
+6d 00 33 00 32 00 5c 00 64 00 72 00 69 00 76 00 m.3.2.\.d.r.i.v.
+65 00 72 00 73 00 5c 00 73 00 75 00 7a 00 6d 00 e.r.s.\.s.u.z.m.
+6b 00 62 00 74 00 75 00 6f 00 79 00 65 00 6b 00 k.b.t.u.o.y.e.k.
+69 00 2e 00 73 00 79 00 73 00 00 00 02 00 00 00 i...s.y.s.......
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 ................
+00 00 00 00 70 00 5c 00 44 00 65 00 76 00 69 00 ....p.\.D.e.v.i.
+63 00 65 00 5c 00 48 00 61 00 72 00 64 00 64 00 c.e.\.H.a.r.d.d.
+69 00 73 00 6b 00 56 00 6f 00 6c 00 75 00 6d 00 i.s.k.V.o.l.u.m.
+65 00 31 00 5c 00 57 00 49 00 4e 00 44 00 4f 00 e.1.\.W.I.N.D.O.
+57 00 53 00 5c 00 73 00 79 00 73 00 74 00 65 00 W.S.\.s.y.s.t.e.
+6d 00 33 00 32 00 5c 00 64 00 72 00 69 00 76 00 m.3.2.\.d.r.i.v.
+65 00 72 00 73 00 5c 00 73 00 74 00 72 00 2e 00 e.r.s.\.s.t.r...
+73 00 79 00 73 00 00 00                         s.y.s...        	False

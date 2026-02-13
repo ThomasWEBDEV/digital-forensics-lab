@@ -1,0 +1,14 @@
+Volatility 3 Framework 2.27.0
+
+Last Write Time	Hive Offset	Type	Key	Name	Data	Volatile
+
+-	0xe19839e8	Key	\Device\HarddiskVolume1\Documents and Settings\CyberDefenders\Local Settings\Application Data\Microsoft\Windows\UsrClass.dat\SOFTWARE\Microsoft\Windows\CurrentVersion\Run	-	-	-
+2023-02-14 03:11:52.000000 UTC	0xe1982970	REG_SZ	\Device\HarddiskVolume1\Documents and Settings\CyberDefenders\NTUSER.DAT\Software\Microsoft\Windows\CurrentVersion\Run	MSMSGS	"C:\Program Files\Messenger\msmsgs.exe" /background	False
+-	0xe174b980	Key	\Device\HarddiskVolume1\Documents and Settings\LocalService\Local Settings\Application Data\Microsoft\Windows\UsrClass.dat\SOFTWARE\Microsoft\Windows\CurrentVersion\Run	-	-	-
+-	0xe1716008	Key	\Device\HarddiskVolume1\Documents and Settings\NetworkService\Local Settings\Application Data\Microsoft\Windows\UsrClass.dat\SOFTWARE\Microsoft\Windows\CurrentVersion\Run	-	-	-
+-	0xe14666b8	Key	\Device\HarddiskVolume1\WINDOWS\system32\config\software\SOFTWARE\Microsoft\Windows\CurrentVersion\Run	-	-	-
+-	0xe1438b60	Key	\Device\HarddiskVolume1\WINDOWS\system32\config\SAM\SOFTWARE\Microsoft\Windows\CurrentVersion\Run	-	-	-
+-	0xe1466b60	Key	\Device\HarddiskVolume1\WINDOWS\system32\config\SECURITY\SOFTWARE\Microsoft\Windows\CurrentVersion\Run	-	-	-
+-	0xe1358008	Key	[NONAME]\SOFTWARE\Microsoft\Windows\CurrentVersion\Run	-	-	-
+-	0xe1035b60	Key	\Device\HarddiskVolume1\WINDOWS\system32\config\system\SOFTWARE\Microsoft\Windows\CurrentVersion\Run	-	-	-
+-	0xe102e008	Key	[NONAME]\SOFTWARE\Microsoft\Windows\CurrentVersion\Run	-	-	-

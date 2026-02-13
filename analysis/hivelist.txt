@@ -1,0 +1,17 @@
+Volatility 3 Framework 2.27.0
+
+Offset	FileFullPath	File output
+
+0xe19839e8	\Device\HarddiskVolume1\Documents and Settings\CyberDefenders\Local Settings\Application Data\Microsoft\Windows\UsrClass.dat	Disabled
+0xe1982970	\Device\HarddiskVolume1\Documents and Settings\CyberDefenders\NTUSER.DAT	Disabled
+0xe174b980	\Device\HarddiskVolume1\Documents and Settings\LocalService\Local Settings\Application Data\Microsoft\Windows\UsrClass.dat	Disabled
+0xe1879008	\Device\HarddiskVolume1\Documents and Settings\LocalService\NTUSER.DAT	Disabled
+0xe1716008	\Device\HarddiskVolume1\Documents and Settings\NetworkService\Local Settings\Application Data\Microsoft\Windows\UsrClass.dat	Disabled
+0xe16f5b60	\Device\HarddiskVolume1\Documents and Settings\NetworkService\NTUSER.DAT	Disabled
+0xe14666b8	\Device\HarddiskVolume1\WINDOWS\system32\config\software	Disabled
+0xe1447008	\Device\HarddiskVolume1\WINDOWS\system32\config\default	Disabled
+0xe1438b60	\Device\HarddiskVolume1\WINDOWS\system32\config\SAM	Disabled
+0xe1466b60	\Device\HarddiskVolume1\WINDOWS\system32\config\SECURITY	Disabled
+0xe1358008		Disabled
+0xe1035b60	\Device\HarddiskVolume1\WINDOWS\system32\config\system	Disabled
+0xe102e008		Disabled

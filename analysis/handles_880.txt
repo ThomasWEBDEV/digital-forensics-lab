@@ -1,0 +1,30 @@
+880	svchost.exe	0x89a28890	0xc	File	0x100020	\Device\HarddiskVolume1\WINDOWS\system32
+880	svchost.exe	0x89a1a6f8	0x50	File	0x100001	\Device\KsecDD
+880	svchost.exe	0x89a8e1f0	0x64	Event	0x1f0003	userenv:  User Profile setup event
+880	svchost.exe	0x89937358	0x68	File	0x100020	\Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83
+880	svchost.exe	0x899d0250	0xbc	File	0x12019f	\Device\NamedPipe\net\NtControlPipe2
+880	svchost.exe	0x89a17a50	0x100	File	0x100000	\Device\Dfs
+880	svchost.exe	0x89732cb8	0x158	File	0x12019f	\Device\NamedPipe\lsarpc
+880	svchost.exe	0x8969fee0	0x274	File	0x12019f	\Device\Termdd
+880	svchost.exe	0x89ab3478	0x294	File	0x12019f	\Device\Termdd
+880	svchost.exe	0x89ab3978	0x29c	File	0x12019f	\Device\Termdd
+880	svchost.exe	0x896bcd18	0x2b8	File	0x12019f	\Device\NamedPipe\Ctx_WinStation_API_service
+880	svchost.exe	0x8997a248	0x2bc	File	0x12019f	\Device\NamedPipe\Ctx_WinStation_API_service
+880	svchost.exe	0x899a24b0	0x304	File	0x12019f	\Device\Termdd
+880	svchost.exe	0x89a00f90	0x33c	File	0x12019f	\Device\{9DD6AFA1-8646-4720-836B-EDCB1085864A}
+880	svchost.exe	0x89af0cf0	0x340	File	0x12019f	\Device\HarddiskVolume1\WINDOWS\system32\drivers\str.sys
+880	svchost.exe	0x89993f90	0x3d8	File	0x100020	\Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83
+880	svchost.exe	0x89958b78	0x3e4	File	0x12019f	\Device\HarddiskVolume1\WINDOWS\system32\config\systemprofile\Local Settings\Temporary Internet Files\Content.IE5\index.dat
+880	svchost.exe	0x897301d8	0x3e8	Mutant	0x1f0001	c:!windows!system32!config!systemprofile!local settings!temporary internet files!content.ie5!
+880	svchost.exe	0xe1a29fd8	0x3ec	Section	0xf0007	C:_WINDOWS_system32_config_systemprofile_Local Settings_Temporary Internet Files_Content.IE5_index.dat_32768
+880	svchost.exe	0x89730228	0x3f0	Mutant	0x1f0001	c:!windows!system32!config!systemprofile!cookies!
+880	svchost.exe	0x899fe2e0	0x3f8	File	0x12019f	\Device\HarddiskVolume1\WINDOWS\system32\config\systemprofile\Cookies\index.dat
+880	svchost.exe	0x89a3a150	0x3fc	Mutant	0x1f0001	c:!windows!system32!config!systemprofile!local settings!history!history.ie5!
+880	svchost.exe	0x89a492e8	0x400	File	0x12019f	\Device\HarddiskVolume1\WINDOWS\system32\config\systemprofile\Local Settings\History\History.IE5\index.dat
+880	svchost.exe	0xe2037cf8	0x404	Section	0xf0007	C:_WINDOWS_system32_config_systemprofile_Local Settings_History_History.IE5_index.dat_32768
+880	svchost.exe	0xe1219650	0x410	Section	0xf0007	C:_WINDOWS_system32_config_systemprofile_Cookies_index.dat_16384
+880	svchost.exe	0x896811d8	0x424	File	0x100020	\Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83
+880	svchost.exe	0x89965fe0	0x42c	Mutant	0x100000	RasPbFile
+880	svchost.exe	0xe169e898	0x474	Key	0xf003f	MACHINE\SYSTEM\CONTROLSET001\HARDWARE PROFILES\0001
+880	svchost.exe	0x89bbc028	0x488	File	0x100020	\Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83
+880	svchost.exe	0x89999980	0x4a8	File	0x1200a0	\Device\NetBT_Tcpip_{B35F0A5F-EBC3-4B5D-800D-7C1B64B30F14}

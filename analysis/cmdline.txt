@@ -1,0 +1,29 @@
+Volatility 3 Framework 2.27.0
+
+PID	Process	Args
+
+4	System	-
+368	smss.exe	\SystemRoot\System32\smss.exe
+592	csrss.exe	C:\WINDOWS\system32\csrss.exe ObjectDirectory=\Windows SharedSection=1024,3072,512 Windows=On SubSystemType=Windows ServerDll=basesrv,1 ServerDll=winsrv:UserServerDllInitialization,3 ServerDll=winsrv:ConServerDllInitialization,2 ProfileControl=Off MaxRequestThreads=16
+616	winlogon.exe	winlogon.exe
+660	services.exe	C:\WINDOWS\system32\services.exe
+672	lsass.exe	C:\WINDOWS\system32\lsass.exe
+832	VBoxService.exe	C:\WINDOWS\System32\VBoxService.exe
+880	svchost.exe	C:\WINDOWS\system32\svchost -k DcomLaunch
+968	svchost.exe	C:\WINDOWS\system32\svchost -k rpcss
+1060	svchost.exe	C:\WINDOWS\System32\svchost.exe -k netsvcs
+1108	svchost.exe	C:\WINDOWS\system32\svchost.exe -k NetworkService
+1156	svchost.exe	C:\WINDOWS\system32\svchost.exe -k LocalService
+1484	explorer.exe	C:\WINDOWS\Explorer.EXE
+1608	spoolsv.exe	C:\WINDOWS\system32\spoolsv.exe
+480	wscntfy.exe	C:\WINDOWS\system32\wscntfy.exe
+540	alg.exe	C:\WINDOWS\System32\alg.exe
+376	VBoxTray.exe	"C:\WINDOWS\system32\VBoxTray.exe" 
+636	msmsgs.exe	"C:\Program Files\Messenger\msmsgs.exe" /background
+1880	taskmgr.exe	-
+964	rootkit.exe	-
+1960	cmd.exe	-
+528	notepad.exe	-
+1432	notepad.exe	-
+1444	notepad.exe	-
+276	DumpIt.exe	"C:\Documents and Settings\CyberDefenders\Desktop\dumpit-moonsols\DumpIt.exe" 

@@ -28,3 +28,4 @@ data/samples/
 Thumbs.db
 venv/
 *.zip
+*.dmp

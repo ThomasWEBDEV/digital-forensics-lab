@@ -1,0 +1,34 @@
+﻿Created By AccessData® FTK® Imager 4.2.1.4 
+
+Case Information: 
+Acquired using: ADI4.2.1.4
+Case Number: 
+Evidence Number: 
+Unique Description: 
+Examiner: Minerva
+Notes: 
+
+--------------------------------------------------------------
+
+Information for D:\Users\Mawso3a\Desktop\Horcrux.ad1:
+[Custom Content Sources]
+ Horcrux.E01:Partition 2 [32216MB]:NONAME [NTFS]|[root]|Windows|System32|config|*(Wildcard,Consider Case,Include Subdirectories)
+ Horcrux.E01:Partition 2 [32216MB]:NONAME [NTFS]|[root]|Users|Karen|AppData|Local|Google|*(Wildcard,Consider Case,Include Subdirectories)
+ Horcrux.E01:Partition 2 [32216MB]:NONAME [NTFS]|[root]|Users|Karen|AppData|Local|Microsoft|Outlook|*(Wildcard,Consider Case,Include Subdirectories)
+ Horcrux.E01:Partition 2 [32216MB]:NONAME [NTFS]|[root]|Users|Karen|AppData|Roaming|Microsoft|Office|*(Wildcard,Consider Case,Include Subdirectories)
+ Horcrux.E01:Partition 3 [3122MB]:PacaLady [NTFS]|[root]|*(Wildcard,Consider Case,Include Subdirectories)
+[Computed Hashes]
+ MD5 checksum:    562ea531434f34bc202b349b3d5f8051
+ SHA1 checksum:   6f23af0de52b19be2f12ee148dc2384f535fd781
+
+Image information:
+ Acquisition started:   Tue May 11 19:51:07 2021
+ Acquisition finished:  Tue May 11 19:53:06 2021
+ Segment list:
+  D:\Users\Mawso3a\Desktop\Horcrux.ad1
+
+Image Verification Results:
+ Verification started:  Tue May 11 19:53:08 2021
+ Verification finished: Tue May 11 19:53:14 2021
+ MD5 checksum:    562ea531434f34bc202b349b3d5f8051 : verified
+ SHA1 checksum:   6f23af0de52b19be2f12ee148dc2384f535fd781 : verified

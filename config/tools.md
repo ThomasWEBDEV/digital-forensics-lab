@@ -15,3 +15,10 @@
 ## Notes
 
 - Always activate venv before working: source venv/bin/activate
+
+## Phase 2 - Analyse disque
+
+| Outil | Version | Install | Désinstall |
+|-------|---------|---------|-----------|
+| Autopsy | 4.21+ | Windows installer | Panneau de configuration > Désinstaller |
+| FTK Imager | 4.2.1.4 | Windows installer | Panneau de configuration > Désinstaller |

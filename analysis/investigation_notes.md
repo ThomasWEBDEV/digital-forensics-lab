@@ -78,3 +78,24 @@ Un dump memoire a ete obtenu depuis la machine infectee pour analyse.
 - [x] IOCs extraits
 - [x] MITRE ATT&CK mappe
 - [ ] Rapport final redige
+
+## Phase 2 - Analyse disque (HireMe - CyberDefenders)
+
+### Systeme analyse
+
+| Propriete | Valeur |
+|-----------|--------|
+| Hostname | TOTALLYNOTAHACK |
+| OS | Windows 10 Pro |
+| Build number | 16299 |
+| Utilisateur principal | Karen |
+| Image | Horcrux.ad1 |
+| Outil | Autopsy 4.22 + FTK Imager 4.5 |
+
+### Questions resolues
+
+| Question | Reponse | Methode |
+|----------|---------|---------|
+| Q1 - Administrateur | Karen | FTK Imager - dossier Users |
+| Q2 - Build number | 16299 | Autopsy - Keyword Search CurrentBuildNumber |
+| Q3 - Hostname | TOTALLYNOTAHACK | Autopsy - Operating System Information |

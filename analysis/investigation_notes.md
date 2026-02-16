@@ -99,3 +99,5 @@ Un dump memoire a ete obtenu depuis la machine infectee pour analyse.
 | Q1 - Administrateur | Karen | FTK Imager - dossier Users |
 | Q2 - Build number | 16299 | Autopsy - Keyword Search CurrentBuildNumber |
 | Q3 - Hostname | TOTALLYNOTAHACK | Autopsy - Operating System Information |
+
+| Q4 - Application messagerie | Skype | Autopsy - Installed Programs |

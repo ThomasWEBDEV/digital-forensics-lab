@@ -104,3 +104,4 @@ Un dump memoire a ete obtenu depuis la machine infectee pour analyse.
 
 | Q5 - Zip code | 19709 | Autopsy - Web Form Autofill - champ postal |
 | Q6 - Initiales contact TAAUSAI | MS | Autopsy - E-Mail Messages - Micheal Scotch |
+| Q7 - Montant propose upfront | $150000 | Autopsy - E-Mail Messages - conversation Karen/Michael |

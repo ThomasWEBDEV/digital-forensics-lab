@@ -107,3 +107,5 @@ Un dump memoire a ete obtenu depuis la machine infectee pour analyse.
 | Q7 - Montant propose upfront | $150000 | Autopsy - E-Mail Messages - conversation Karen/Michael |
 
 | Q8 - Pays de rencontre | Egypt | Coordonnees GPS 27°22'50.10″N, 33°37'54.62″E converties |
+
+| Q8 - Pays de rencontre | Egypt | Coordonnees GPS 27°22'50.10″N, 33°37'54.62″E converties |

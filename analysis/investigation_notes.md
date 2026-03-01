@@ -105,3 +105,5 @@ Un dump memoire a ete obtenu depuis la machine infectee pour analyse.
 | Q5 - Zip code | 19709 | Autopsy - Web Form Autofill - champ postal |
 | Q6 - Initiales contact TAAUSAI | MS | Autopsy - E-Mail Messages - Micheal Scotch |
 | Q7 - Montant propose upfront | $150000 | Autopsy - E-Mail Messages - conversation Karen/Michael |
+
+| Q8 - Pays de rencontre | Egypt | Coordonnees GPS 27°22'50.10″N, 33°37'54.62″E converties |

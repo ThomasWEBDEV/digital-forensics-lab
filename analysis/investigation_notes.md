@@ -109,3 +109,4 @@ Un dump memoire a ete obtenu depuis la machine infectee pour analyse.
 | Q8 - Pays de rencontre | Egypt | Coordonnees GPS 27°22'50.10″N, 33°37'54.62″E converties |
 
 | Q8 - Pays de rencontre | Egypt | Coordonnees GPS 27°22'50.10″N, 33°37'54.62″E converties |
+| Q9 - Timezone | UTC | Autopsy - Keyword Search TimeZoneKeyName |

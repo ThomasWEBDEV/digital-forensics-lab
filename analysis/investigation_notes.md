@@ -113,3 +113,4 @@ Un dump memoire a ete obtenu depuis la machine infectee pour analyse.
 | Q10 - AlpacaCare.docx accessed | 2019-03-17 21:52 | FTK Imager - Partition 3 - File metadata |
 | Q11 - Lettre partition | A | Autopsy - Volume System Information |
 | Q12 - Réponse manager | TheCardCriesNoMore | Autopsy - Email Analysis |
+| Q13 - Poste offert | Cyber Security Analyst | Autopsy - Email Analysis |

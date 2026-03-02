@@ -116,3 +116,4 @@ Un dump memoire a ete obtenu depuis la machine infectee pour analyse.
 | Q13 - Poste offert | Cyber Security Analyst | Autopsy - Email Analysis |
 | Q14 - Changement MDP admin | 03/21/2019 19:13:09 | Timestamp SAM User 000003E9 |
 | Q15 - Version Chrome | 72.0.3626.121 | Autopsy - Installed Programs |
+| Q16 - URL Skype | https://download.skype.com/s4l/download/win/Skype-8.41.0.54.exe | Autopsy - Web Download History |

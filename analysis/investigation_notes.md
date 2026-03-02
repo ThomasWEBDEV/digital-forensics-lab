@@ -115,3 +115,4 @@ Un dump memoire a ete obtenu depuis la machine infectee pour analyse.
 | Q12 - Réponse manager | TheCardCriesNoMore | Autopsy - Email Analysis |
 | Q13 - Poste offert | Cyber Security Analyst | Autopsy - Email Analysis |
 | Q14 - Changement MDP admin | 03/21/2019 19:13:09 | Timestamp SAM User 000003E9 |
+| Q15 - Version Chrome | 72.0.3626.121 | Autopsy - Installed Programs |
